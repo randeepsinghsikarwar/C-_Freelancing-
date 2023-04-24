@@ -1,0 +1,21 @@
+C:\Users\julie\Documents\Scott SLC\Code\Roborally\Roborally\bin\Debug\Roborally.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\Roborally\Roborally\bin\Debug\Roborally.exe
+C:\Users\julie\Documents\Scott SLC\Code\Roborally\Roborally\bin\Debug\Roborally.pdb
+C:\Users\julie\Documents\Scott SLC\Code\Roborally\Roborally\obj\Debug\Roborally.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\Roborally\Roborally\obj\Debug\Roborally.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\Roborally\Roborally\obj\Debug\Roborally.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\Roborally\Roborally\obj\Debug\Roborally.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\Roborally\Roborally\obj\Debug\Roborally.exe
+C:\Users\julie\Documents\Scott SLC\Code\Roborally\Roborally\obj\Debug\Roborally.pdb
+C:\Users\julie\Documents\Scott SLC\Code\Roborally\Roborally\obj\Debug\Roborally.RoboRallyForm.resources
+E:\Roborally\Roborally\bin\Debug\Roborally.exe.config
+E:\Roborally\Roborally\bin\Debug\Roborally.exe
+E:\Roborally\Roborally\bin\Debug\Roborally.pdb
+E:\Roborally\Roborally\obj\Debug\Roborally.csproj.AssemblyReference.cache
+E:\Roborally\Roborally\obj\Debug\Roborally.csproj.SuggestedBindingRedirects.cache
+E:\Roborally\Roborally\obj\Debug\Roborally.RoboRallyForm.resources
+E:\Roborally\Roborally\obj\Debug\Roborally.Properties.Resources.resources
+E:\Roborally\Roborally\obj\Debug\Roborally.csproj.GenerateResource.cache
+E:\Roborally\Roborally\obj\Debug\Roborally.csproj.CoreCompileInputs.cache
+E:\Roborally\Roborally\obj\Debug\Roborally.exe
+E:\Roborally\Roborally\obj\Debug\Roborally.pdb
