@@ -1,0 +1,21 @@
+C:\Users\julie\Documents\Scott SLC\Code\Connect4\Connect4\obj\Debug\Connect4.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\Connect4\Connect4\obj\Debug\Connect4.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\Connect4\Connect4\obj\Debug\Connect4.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\Connect4\Connect4\obj\Debug\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\Connect4\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\Connect4\Connect4\bin\Debug\Connect4.exe
+C:\Users\julie\Documents\Scott SLC\Code\Connect4\Connect4\bin\Debug\Connect4.pdb
+C:\Users\julie\Documents\Scott SLC\Code\Connect4\Connect4\obj\Debug\Connect4.exe
+C:\Users\julie\Documents\Scott SLC\Code\Connect4\Connect4\obj\Debug\Connect4.pdb
+C:\Users\julie\Documents\Scott SLC\Code\Connect4\Connect4\obj\Debug\Connect4.Connect4.resources
+E:\Connect4\Connect4\bin\Debug\Connect4.exe.config
+E:\Connect4\Connect4\bin\Debug\Connect4.exe
+E:\Connect4\Connect4\bin\Debug\Connect4.pdb
+E:\Connect4\Connect4\obj\Debug\Connect4.csproj.AssemblyReference.cache
+E:\Connect4\Connect4\obj\Debug\Connect4.csproj.SuggestedBindingRedirects.cache
+E:\Connect4\Connect4\obj\Debug\Connect4.Connect4.resources
+E:\Connect4\Connect4\obj\Debug\Connect4.Properties.Resources.resources
+E:\Connect4\Connect4\obj\Debug\Connect4.csproj.GenerateResource.cache
+E:\Connect4\Connect4\obj\Debug\Connect4.csproj.CoreCompileInputs.cache
+E:\Connect4\Connect4\obj\Debug\Connect4.exe
+E:\Connect4\Connect4\obj\Debug\Connect4.pdb

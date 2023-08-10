@@ -1,0 +1,21 @@
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\bin\Debug\SlotMachineStarterCode.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\bin\Debug\SlotMachineStarterCode.exe
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\bin\Debug\SlotMachineStarterCode.pdb
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.exe
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.pdb
+E:\SlotMachineStarterCode\SlotMachineStarterCode\bin\Debug\SlotMachineStarterCode.exe.config
+E:\SlotMachineStarterCode\SlotMachineStarterCode\bin\Debug\SlotMachineStarterCode.exe
+E:\SlotMachineStarterCode\SlotMachineStarterCode\bin\Debug\SlotMachineStarterCode.pdb
+E:\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.csproj.AssemblyReference.cache
+E:\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.csproj.SuggestedBindingRedirects.cache
+E:\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.Form1.resources
+E:\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.Properties.Resources.resources
+E:\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.csproj.GenerateResource.cache
+E:\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.csproj.CoreCompileInputs.cache
+E:\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.exe
+E:\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.pdb

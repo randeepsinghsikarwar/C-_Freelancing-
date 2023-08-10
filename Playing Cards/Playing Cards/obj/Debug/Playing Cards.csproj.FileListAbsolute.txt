@@ -1,0 +1,21 @@
+C:\Users\julie\Documents\Scott SLC\Code\Playing Cards\Playing Cards\bin\Debug\Playing Cards.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\Playing Cards\Playing Cards\bin\Debug\Playing Cards.exe
+C:\Users\julie\Documents\Scott SLC\Code\Playing Cards\Playing Cards\bin\Debug\Playing Cards.pdb
+C:\Users\julie\Documents\Scott SLC\Code\Playing Cards\Playing Cards\obj\Debug\Playing Cards.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\Playing Cards\Playing Cards\obj\Debug\Playing_Cards.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\Playing Cards\Playing Cards\obj\Debug\Playing_Cards.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\Playing Cards\Playing Cards\obj\Debug\Playing Cards.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\Playing Cards\Playing Cards\obj\Debug\Playing Cards.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\Playing Cards\Playing Cards\obj\Debug\Playing Cards.exe
+C:\Users\julie\Documents\Scott SLC\Code\Playing Cards\Playing Cards\obj\Debug\Playing Cards.pdb
+E:\Playing Cards\Playing Cards\bin\Debug\Playing Cards.exe.config
+E:\Playing Cards\Playing Cards\bin\Debug\Playing Cards.exe
+E:\Playing Cards\Playing Cards\bin\Debug\Playing Cards.pdb
+E:\Playing Cards\Playing Cards\obj\Debug\Playing Cards.csproj.AssemblyReference.cache
+E:\Playing Cards\Playing Cards\obj\Debug\Playing Cards.csproj.SuggestedBindingRedirects.cache
+E:\Playing Cards\Playing Cards\obj\Debug\Playing_Cards.Form1.resources
+E:\Playing Cards\Playing Cards\obj\Debug\Playing_Cards.Properties.Resources.resources
+E:\Playing Cards\Playing Cards\obj\Debug\Playing Cards.csproj.GenerateResource.cache
+E:\Playing Cards\Playing Cards\obj\Debug\Playing Cards.csproj.CoreCompileInputs.cache
+E:\Playing Cards\Playing Cards\obj\Debug\Playing Cards.exe
+E:\Playing Cards\Playing Cards\obj\Debug\Playing Cards.pdb

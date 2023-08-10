@@ -1,0 +1,32 @@
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\bin\Debug\WordFrequency.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\bin\Debug\WordFrequency.exe
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\bin\Debug\WordFrequency.pdb
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\obj\Debug\WordFrequency.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\obj\Debug\WordFrequency.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\obj\Debug\WordFrequency.exe
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\obj\Debug\WordFrequency.pdb
+E:\WordFrequency\WordFrequency\bin\Debug\WordFrequency.exe.config
+E:\WordFrequency\WordFrequency\bin\Debug\WordFrequency.exe
+E:\WordFrequency\WordFrequency\bin\Debug\WordFrequency.pdb
+E:\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csproj.AssemblyReference.cache
+E:\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csproj.SuggestedBindingRedirects.cache
+E:\WordFrequency\WordFrequency\obj\Debug\WordFrequency.Form1.resources
+E:\WordFrequency\WordFrequency\obj\Debug\WordFrequency.Properties.Resources.resources
+E:\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csproj.GenerateResource.cache
+E:\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csproj.CoreCompileInputs.cache
+E:\WordFrequency\WordFrequency\obj\Debug\WordFrequency.exe
+E:\WordFrequency\WordFrequency\obj\Debug\WordFrequency.pdb
+E:\WordFrequency_final\WordFrequency\WordFrequency\bin\Debug\WordFrequency.exe.config
+E:\WordFrequency_final\WordFrequency\WordFrequency\bin\Debug\WordFrequency.exe
+E:\WordFrequency_final\WordFrequency\WordFrequency\bin\Debug\WordFrequency.pdb
+E:\WordFrequency_final\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csproj.AssemblyReference.cache
+E:\WordFrequency_final\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csproj.SuggestedBindingRedirects.cache
+E:\WordFrequency_final\WordFrequency\WordFrequency\obj\Debug\WordFrequency.Form1.resources
+E:\WordFrequency_final\WordFrequency\WordFrequency\obj\Debug\WordFrequency.Properties.Resources.resources
+E:\WordFrequency_final\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csproj.GenerateResource.cache
+E:\WordFrequency_final\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csproj.CoreCompileInputs.cache
+E:\WordFrequency_final\WordFrequency\WordFrequency\obj\Debug\WordFrequency.exe
+E:\WordFrequency_final\WordFrequency\WordFrequency\obj\Debug\WordFrequency.pdb

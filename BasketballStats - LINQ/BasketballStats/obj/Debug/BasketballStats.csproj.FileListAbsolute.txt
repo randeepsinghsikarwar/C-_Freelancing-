@@ -1,0 +1,31 @@
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\bin\Debug\BasketballStats.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\bin\Debug\BasketballStats.exe
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\bin\Debug\BasketballStats.pdb
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.exe
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.pdb
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\bin\Debug\BasketballStats.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\bin\Debug\BasketballStats.exe
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\bin\Debug\BasketballStats.pdb
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.exe
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.pdb
+E:\BasketballStats - LINQ\BasketballStats\bin\Debug\BasketballStats.exe.config
+E:\BasketballStats - LINQ\BasketballStats\bin\Debug\BasketballStats.exe
+E:\BasketballStats - LINQ\BasketballStats\bin\Debug\BasketballStats.pdb
+E:\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.csproj.AssemblyReference.cache
+E:\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.csproj.SuggestedBindingRedirects.cache
+E:\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.Form1.resources
+E:\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.Properties.Resources.resources
+E:\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.csproj.GenerateResource.cache
+E:\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.csproj.CoreCompileInputs.cache
+E:\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.exe
+E:\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.pdb

@@ -1,0 +1,21 @@
+C:\Users\julie\Documents\Scott SLC\Code\InputValidation\InputValidation\bin\Debug\InputValidation.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\InputValidation\InputValidation\bin\Debug\InputValidation.exe
+C:\Users\julie\Documents\Scott SLC\Code\InputValidation\InputValidation\bin\Debug\InputValidation.pdb
+C:\Users\julie\Documents\Scott SLC\Code\InputValidation\InputValidation\obj\Debug\InputValidation.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\InputValidation\InputValidation\obj\Debug\InputValidation.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\InputValidation\InputValidation\obj\Debug\InputValidation.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\InputValidation\InputValidation\obj\Debug\InputValidation.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\InputValidation\InputValidation\obj\Debug\InputValidation.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\InputValidation\InputValidation\obj\Debug\InputValidation.exe
+C:\Users\julie\Documents\Scott SLC\Code\InputValidation\InputValidation\obj\Debug\InputValidation.pdb
+E:\InputValidation\InputValidation\bin\Debug\InputValidation.exe.config
+E:\InputValidation\InputValidation\bin\Debug\InputValidation.exe
+E:\InputValidation\InputValidation\bin\Debug\InputValidation.pdb
+E:\InputValidation\InputValidation\obj\Debug\InputValidation.csproj.AssemblyReference.cache
+E:\InputValidation\InputValidation\obj\Debug\InputValidation.csproj.SuggestedBindingRedirects.cache
+E:\InputValidation\InputValidation\obj\Debug\InputValidation.Form1.resources
+E:\InputValidation\InputValidation\obj\Debug\InputValidation.Properties.Resources.resources
+E:\InputValidation\InputValidation\obj\Debug\InputValidation.csproj.GenerateResource.cache
+E:\InputValidation\InputValidation\obj\Debug\InputValidation.csproj.CoreCompileInputs.cache
+E:\InputValidation\InputValidation\obj\Debug\InputValidation.exe
+E:\InputValidation\InputValidation\obj\Debug\InputValidation.pdb

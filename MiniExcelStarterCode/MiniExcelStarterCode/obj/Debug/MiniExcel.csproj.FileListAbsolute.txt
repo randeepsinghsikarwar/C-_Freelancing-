@@ -1,0 +1,10 @@
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcel\MiniExcel\obj\Debug\MiniExcel.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcel\MiniExcel\obj\Debug\MiniExcel.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcel\MiniExcel\obj\Debug\MiniExcel.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcel\MiniExcel\obj\Debug\MiniExcel.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcel\MiniExcel\obj\Debug\MiniExcel.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcel\MiniExcel\bin\Debug\MiniExcel.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcel\MiniExcel\bin\Debug\MiniExcel.exe
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcel\MiniExcel\bin\Debug\MiniExcel.pdb
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcel\MiniExcel\obj\Debug\MiniExcel.exe
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcel\MiniExcel\obj\Debug\MiniExcel.pdb

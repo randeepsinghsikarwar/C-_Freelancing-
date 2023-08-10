@@ -1,0 +1,21 @@
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\bin\Debug\BasketballStats.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\bin\Debug\BasketballStats.exe
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\bin\Debug\BasketballStats.pdb
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.exe
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.pdb
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.Form1.resources
+E:\BasketballStats Assignment 3\BasketballStats\BasketballStats\bin\Debug\BasketballStats.exe.config
+E:\BasketballStats Assignment 3\BasketballStats\BasketballStats\bin\Debug\BasketballStats.exe
+E:\BasketballStats Assignment 3\BasketballStats\BasketballStats\bin\Debug\BasketballStats.pdb
+E:\BasketballStats Assignment 3\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.AssemblyReference.cache
+E:\BasketballStats Assignment 3\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.SuggestedBindingRedirects.cache
+E:\BasketballStats Assignment 3\BasketballStats\BasketballStats\obj\Debug\BasketballStats.Form1.resources
+E:\BasketballStats Assignment 3\BasketballStats\BasketballStats\obj\Debug\BasketballStats.Properties.Resources.resources
+E:\BasketballStats Assignment 3\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.GenerateResource.cache
+E:\BasketballStats Assignment 3\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.CoreCompileInputs.cache
+E:\BasketballStats Assignment 3\BasketballStats\BasketballStats\obj\Debug\BasketballStats.exe
+E:\BasketballStats Assignment 3\BasketballStats\BasketballStats\obj\Debug\BasketballStats.pdb

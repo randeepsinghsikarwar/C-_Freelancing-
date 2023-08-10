@@ -1,0 +1,41 @@
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection\BookCollection\bin\Debug\BookCollection.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection\BookCollection\bin\Debug\BookCollection.exe
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection\BookCollection\bin\Debug\BookCollection.pdb
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection\BookCollection\obj\Debug\BookCollection.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection\BookCollection\obj\Debug\BookCollection.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection\BookCollection\obj\Debug\BookCollection.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection\BookCollection\obj\Debug\BookCollection.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection\BookCollection\obj\Debug\BookCollection.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection\BookCollection\obj\Debug\BookCollection.exe
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection\BookCollection\obj\Debug\BookCollection.pdb
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 9\BookCollection\bin\Debug\BookCollection.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 9\BookCollection\bin\Debug\BookCollection.exe
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 9\BookCollection\bin\Debug\BookCollection.pdb
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 9\BookCollection\obj\Debug\BookCollection.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 9\BookCollection\obj\Debug\BookCollection.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 9\BookCollection\obj\Debug\BookCollection.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 9\BookCollection\obj\Debug\BookCollection.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 9\BookCollection\obj\Debug\BookCollection.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 9\BookCollection\obj\Debug\BookCollection.exe
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 9\BookCollection\obj\Debug\BookCollection.pdb
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 10\BookCollection\bin\Debug\BookCollection.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 10\BookCollection\bin\Debug\BookCollection.exe
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 10\BookCollection\bin\Debug\BookCollection.pdb
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 10\BookCollection\obj\Debug\BookCollection.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 10\BookCollection\obj\Debug\BookCollection.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 10\BookCollection\obj\Debug\BookCollection.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 10\BookCollection\obj\Debug\BookCollection.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 10\BookCollection\obj\Debug\BookCollection.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 10\BookCollection\obj\Debug\BookCollection.exe
+C:\Users\julie\Documents\Scott SLC\Code\BookCollection - Lab 10\BookCollection\obj\Debug\BookCollection.pdb
+E:\BookCollection - Lab 10\BookCollection - Lab 10\BookCollection\bin\Debug\BookCollection.exe.config
+E:\BookCollection - Lab 10\BookCollection - Lab 10\BookCollection\bin\Debug\BookCollection.exe
+E:\BookCollection - Lab 10\BookCollection - Lab 10\BookCollection\bin\Debug\BookCollection.pdb
+E:\BookCollection - Lab 10\BookCollection - Lab 10\BookCollection\obj\Debug\BookCollection.csproj.AssemblyReference.cache
+E:\BookCollection - Lab 10\BookCollection - Lab 10\BookCollection\obj\Debug\BookCollection.csproj.SuggestedBindingRedirects.cache
+E:\BookCollection - Lab 10\BookCollection - Lab 10\BookCollection\obj\Debug\BookCollection.Form1.resources
+E:\BookCollection - Lab 10\BookCollection - Lab 10\BookCollection\obj\Debug\BookCollection.Properties.Resources.resources
+E:\BookCollection - Lab 10\BookCollection - Lab 10\BookCollection\obj\Debug\BookCollection.csproj.GenerateResource.cache
+E:\BookCollection - Lab 10\BookCollection - Lab 10\BookCollection\obj\Debug\BookCollection.csproj.CoreCompileInputs.cache
+E:\BookCollection - Lab 10\BookCollection - Lab 10\BookCollection\obj\Debug\BookCollection.exe
+E:\BookCollection - Lab 10\BookCollection - Lab 10\BookCollection\obj\Debug\BookCollection.pdb

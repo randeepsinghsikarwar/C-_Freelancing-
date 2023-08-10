@@ -1,0 +1,21 @@
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\bin\Debug\MiniExcel.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\bin\Debug\MiniExcel.exe
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\bin\Debug\MiniExcel.pdb
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcelStarterCode.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcel.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcel.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcelStarterCode.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcelStarterCode.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcel.exe
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcel.pdb
+E:\MiniExcelStarterCode\MiniExcelStarterCode\bin\Debug\MiniExcel.exe.config
+E:\MiniExcelStarterCode\MiniExcelStarterCode\bin\Debug\MiniExcel.exe
+E:\MiniExcelStarterCode\MiniExcelStarterCode\bin\Debug\MiniExcel.pdb
+E:\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcelStarterCode.csproj.AssemblyReference.cache
+E:\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcelStarterCode.csproj.SuggestedBindingRedirects.cache
+E:\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcel.Form1.resources
+E:\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcel.Properties.Resources.resources
+E:\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcelStarterCode.csproj.GenerateResource.cache
+E:\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcelStarterCode.csproj.CoreCompileInputs.cache
+E:\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcel.exe
+E:\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcel.pdb

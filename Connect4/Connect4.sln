@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connect4", "Connect4\Connect4.csproj", "{467D69D5-4301-43D6-AB39-9C34D78A2C66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{467D69D5-4301-43D6-AB39-9C34D78A2C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467D69D5-4301-43D6-AB39-9C34D78A2C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467D69D5-4301-43D6-AB39-9C34D78A2C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467D69D5-4301-43D6-AB39-9C34D78A2C66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40EDE7D9-7D02-4C5B-83AB-BC18B8B05C28}
+	EndGlobalSection
+EndGlobal
