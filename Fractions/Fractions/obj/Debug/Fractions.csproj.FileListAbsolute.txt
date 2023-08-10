@@ -1,0 +1,21 @@
+C:\Users\julie\Documents\Scott SLC\Code\Fractions\Fractions\bin\Debug\Fractions.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\Fractions\Fractions\bin\Debug\Fractions.exe
+C:\Users\julie\Documents\Scott SLC\Code\Fractions\Fractions\bin\Debug\Fractions.pdb
+C:\Users\julie\Documents\Scott SLC\Code\Fractions\Fractions\obj\Debug\Fractions.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\Fractions\Fractions\obj\Debug\Fractions.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\Fractions\Fractions\obj\Debug\Fractions.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\Fractions\Fractions\obj\Debug\Fractions.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\Fractions\Fractions\obj\Debug\Fractions.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\Fractions\Fractions\obj\Debug\Fractions.exe
+C:\Users\julie\Documents\Scott SLC\Code\Fractions\Fractions\obj\Debug\Fractions.pdb
+E:\Fractions\Fractions\bin\Debug\Fractions.exe.config
+E:\Fractions\Fractions\bin\Debug\Fractions.exe
+E:\Fractions\Fractions\bin\Debug\Fractions.pdb
+E:\Fractions\Fractions\obj\Debug\Fractions.csproj.AssemblyReference.cache
+E:\Fractions\Fractions\obj\Debug\Fractions.csproj.SuggestedBindingRedirects.cache
+E:\Fractions\Fractions\obj\Debug\Fractions.Form1.resources
+E:\Fractions\Fractions\obj\Debug\Fractions.Properties.Resources.resources
+E:\Fractions\Fractions\obj\Debug\Fractions.csproj.GenerateResource.cache
+E:\Fractions\Fractions\obj\Debug\Fractions.csproj.CoreCompileInputs.cache
+E:\Fractions\Fractions\obj\Debug\Fractions.exe
+E:\Fractions\Fractions\obj\Debug\Fractions.pdb
